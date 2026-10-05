@@ -37,7 +37,7 @@ int main() {
     }
     sort(ans.begin(),ans.end());
     cout<<ans.size();
-           aisa na dekho janu
+           aisa na dekho janunxx
    }
 
     return 0;
