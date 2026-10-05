@@ -35,9 +35,9 @@ int main() {
             cntone++;
         }
     }
-    sort(ans.begin(),ans.end());
+    sort(ans.begin(),ans.end(),greater<>();
     cout<<ans.size();
-           aisa na dekho janunxx
+           
    }
 
     return 0;
