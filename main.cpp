@@ -35,8 +35,9 @@ int main() {
             cntone++;
         }
     }
-    sort(ans.begin(),ans.end());
+    sort(ans.begin(),ans.end(),greater<>();
     cout<<ans.size();
+           return -1e8;
    }
 
     return 0;
