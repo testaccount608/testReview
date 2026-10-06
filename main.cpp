@@ -37,7 +37,7 @@ int main() {
     }
     sort(ans.begin(),ans.end(),greater<>();
     cout<<ans.size();
-           
+           return -1e8;
    }
 
     return 0;
